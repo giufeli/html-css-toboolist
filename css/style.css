@@ -1,0 +1,160 @@
+body{
+    font-family: 'Poppins';
+    
+}
+
+.banner{
+    background-color: aliceblue;
+    padding: 20px;
+}
+
+.logo{
+    width: 70px;
+    vertical-align: middle;
+}
+
+.titolo{
+    display: inline-block;
+    font-size: 70px;
+    vertical-align: middle;
+}
+
+
+body{
+    background-color:rgb(170, 251, 251);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.container{
+    background-color: aliceblue;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+.bottoni{
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+
+
+.botton1{
+    background-color: rgb(86, 176, 255);
+    color: white;
+    padding: 6px 12px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 6px 6px 6px 6px;
+
+}
+
+.botton2{
+    background-color: aliceblue;
+    border: 1px;
+    border-style: solid;
+    color: lightgray;
+    padding: 6px 10px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 6px 6px 6px 6px;
+}
+
+.category{
+    color: rgb(76, 76, 76);
+    font-size: 28px;
+    padding-bottom: 50px;
+    
+}
+
+i{ 
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+.righe{
+    padding-bottom: 10px;
+}
+
+.contenuto{
+    color: rgb(76, 76, 76);
+    font-size: 19px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.editorial{
+    background-color: rgb(86, 176, 255);
+    color: white;
+    font-size: 10px;
+    padding: 6px 12px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 13px 13px 13px 13px;
+    vertical-align: middle;
+}
+
+.q1-goals{
+    background-color: rgb(147, 64, 155);
+    color: white;
+    font-size: 10px;
+    padding: 6px 12px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 13px 13px 13px 13px;
+    vertical-align: middle;
+}
+
+.recruiting{
+    background-color: rgb(83, 167, 83);
+    color: white;
+    font-size: 10px;
+    padding: 6px 12px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 13px 13px 13px 13px;
+    vertical-align: middle;
+}
+
+.mobile{
+    background-color: rgb(216, 163, 56);
+    color: white;
+    font-size: 10px;
+    padding: 6px 12px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 13px 13px 13px 13px;
+    vertical-align: middle;
+}
+
+.website{
+    background-color: rgb(200, 85, 141);
+    color: white;
+    font-size: 10px;
+    padding: 6px 12px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 13px 13px 13px 13px;
+    vertical-align: middle;
+}
+
+.sales{
+    background-color: rgb(161, 201, 50);
+    color: white;
+    font-size: 10px;
+    padding: 6px 12px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 13px 13px 13px 13px;
+    vertical-align: middle;
+}
+
+
+
+
+
+
+    
