@@ -21,7 +21,7 @@ body{
 
 
 body{
-    background-color:rgb(170, 251, 251);
+    background-color:aliceblue(170, 251, 251);
     background-size: cover;
     background-position: center;
     
@@ -55,7 +55,7 @@ body{
     background-color: aliceblue;
     border: 1px;
     border-style: solid;
-    color: lightgray;
+    color: rgb(182, 182, 182);
     padding: 6px 10px;
     text-align: center;
     display: inline-block;
